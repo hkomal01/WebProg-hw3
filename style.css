@@ -1,0 +1,25 @@
+songs {
+    color: rgb(0, 0, 0);
+    background-color : rgb(250, 187, 211);
+    width: 100%;
+}
+heading {
+    color: rgb(255, 0, 0);
+    font-size : 48px;
+    background-color : rgb(0, 99, 145);
+    text-align: center;
+    display: block;
+}
+title, artist, genre, year {
+    font-size: 24px;
+    display: block;
+    text-align: center;
+}
+title {
+    border: solid black 1px;
+}
+title {
+    font-size : 36px;
+    font-weight : bold;
+    color: rgb(57, 126, 255);
+}

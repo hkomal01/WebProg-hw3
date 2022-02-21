@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<songs>
+    <heading>Song List</heading>
+<song>
+    <title>Airbag</title>
+    <artist>Radiohead</artist>
+    <genre>Alternative Rock</genre>
+    <year>1997</year>
+</song>
+
+<song>
+    <title>Paranoid Android</title>
+    <artist>Radiohead</artist>
+    <genre>Alternative Rock</genre>
+    <year>1997</year>
+</song>
+
+<song>
+    <title>Work This Time</title>
+    <artist>King Gizzard and the Lizard Wizard</artist>
+    <genre>Psychadelic Rock</genre>
+    <year>2014</year>
+</song>
+
+<song>
+    <title>I'm In Your Mind Fuzz</title>
+    <artist>King Gizzard and the Lizard Wizard</artist>
+    <genre>Psychadelic Rock</genre>
+    <year>2014</year>
+</song>
+
+<song>
+    <title>King Kunta</title>
+    <artist>Kendrick Lamar</artist>
+    <genre>Hip-hop</genre>
+    <year>2015</year>
+</song>
+
+<song>
+    <title>Lost</title>
+    <artist>Frank Ocean</artist>
+    <genre>Neo Soul</genre>
+    <year>2012</year>
+</song>
+
+<song>
+    <title>DSCO</title>
+    <artist>Sweet Trip</artist>
+    <genre>Dance/Electronic</genre>
+    <year>2003</year>
+</song>
+
+<song>
+    <title>Take Five</title>
+    <artist>The Dave Brubeck Quartet</artist>
+    <genre>Jazz</genre>
+    <year>1959</year>
+</song>
+
+<song>
+    <title>Avril 14th</title>
+    <artist>Aphex Twin</artist>
+    <genre>Dance/Electronic</genre>
+    <year>2004</year>
+</song>
+
+<song>
+    <title>Numb</title>
+    <artist>Portishead</artist>
+    <genre>Trip-hop</genre>
+    <year>1994</year>
+</song>
+</songs>
